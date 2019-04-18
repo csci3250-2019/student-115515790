@@ -4,7 +4,8 @@ Hi Guys! My name is Li Wai Yip.
 
 * I love CS! ~(counter strike)~.
 * Solving problems with programming is fun
-* Markdown is hard to use :(
+* Markdown is hard to use :( 
+* How can I use **emphasis**?
 * Expereince on Github: 0 (lol)
 
 # 3250 Task List (Have you guys finished all?)
