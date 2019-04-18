@@ -13,7 +13,7 @@ Hi Guys! My name is Li Wai Yip.
 - [ ] Group Report
 - [ ] Github Project
 
-# Table
+# Can you figure out the meaning of this table?
 | Header1       | Header2       | Header3|
 | ------------- |:-------------:| -----: |
 | X             | O             | X      |
@@ -21,6 +21,7 @@ Hi Guys! My name is Li Wai Yip.
 | Y             | 1             |    2   |
 
 
+That's right, it is meaningless.
 
 
 # Screenshots for git commands</h1>
